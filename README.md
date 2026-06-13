@@ -18,6 +18,10 @@ Software Engineer II at Microsoft with 7+ years of experience building scalable 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sucharitha181&show_icons=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
 ## Current Focus
 
 - Cloud-native backend platforms
