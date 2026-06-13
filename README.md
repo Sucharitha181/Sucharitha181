@@ -1,6 +1,6 @@
 # Hi, I'm Sucharitha 👋
 
-Senior Software Engineer at Microsoft with 7+ years of experience building scalable distributed systems, cloud-native applications, enterprise platforms, and AI-enabled solutions.
+Software Engineer II at Microsoft with 7+ years of experience building scalable distributed systems, cloud-native applications, enterprise platforms, and AI-enabled solutions.
 
 ## About Me
 
@@ -22,3 +22,5 @@ Senior Software Engineer at Microsoft with 7+ years of experience building scala
 
 - LinkedIn: https://www.linkedin.com/in/sucharithan06/
 - Email: sucharithanalla09@gmail.com
+
+Thanks for visiting my profile!
